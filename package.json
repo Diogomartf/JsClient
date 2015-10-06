@@ -1,0 +1,10 @@
+{
+  "name": "socket-js-server-client",
+  "version": "0.0.1",
+  "description": "js server and client",
+  "dependencies": {
+    "express": "^4.10.2",
+    "mongoose": "^4.1.9",
+    "node-restful": "^0.2.2"
+  }
+}
